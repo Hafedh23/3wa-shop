@@ -147,5 +147,5 @@ export{
     deleteProduct,
     updateProduct,
     createProductReview,
-  
+
 }
